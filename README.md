@@ -1,3 +1,3 @@
 # 4PDGI
-
-retrato(julio)
+## Retrat company
+[retrat_julio](julio/.julio.pdf)
